@@ -1,0 +1,2 @@
+# CI-CD-Jenkins
+This project is a web application built using Flask, a Python web framework, and Docker, a containerization platform. Jenkins is used for Continuous Integration and Continuous Deployment (CI/CD) of the application. The app is deployed as a Docker container on a server, which is automatically built and deployed to production when changes are made to the codebase. The project also includes unit testing using pytest and GitHub for version control.
